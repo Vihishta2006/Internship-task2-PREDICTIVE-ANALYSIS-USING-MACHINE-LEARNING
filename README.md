@@ -38,3 +38,13 @@ Finally, a heatmap is created to show the correlation between different features
 This task is very useful in real-world applications such as real estate, property valuation, and investment planning. Companies and individuals can use such models to estimate house prices and make better financial decisions.
 
 In simple words, this task shows how we can use data and machine learning to predict outcomes, understand patterns, and support smarter decisions. It is a basic but very important step in learning machine learning and data analysis.
+
+*OUTPUT
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/022371d7-603f-46bf-a097-4e25b27cce08" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/eb7f75a7-5ed8-42d5-b795-a2192939d053" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/9551c703-5dab-4787-8248-cd3d8d1690e4" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7abb5640-42c5-4768-910b-10a9d6e4a3fe" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/6b4cd7c9-aac4-401a-a662-4047e21a288a" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/be021a6c-3455-4930-9d07-b107ca63ba3a" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0b6a45c3-af7d-4b90-be20-f6867c236259" />
