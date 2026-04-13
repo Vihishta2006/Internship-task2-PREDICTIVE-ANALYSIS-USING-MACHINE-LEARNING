@@ -39,7 +39,7 @@ This task is very useful in real-world applications such as real estate, propert
 
 In simple words, this task shows how we can use data and machine learning to predict outcomes, understand patterns, and support smarter decisions. It is a basic but very important step in learning machine learning and data analysis.
 
-*OUTPUT
+*OUTPUT*
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/022371d7-603f-46bf-a097-4e25b27cce08" />
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/eb7f75a7-5ed8-42d5-b795-a2192939d053" />
